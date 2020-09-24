@@ -1,0 +1,2 @@
+# curses doesn't work out-of-the-box on Windows
+curses
